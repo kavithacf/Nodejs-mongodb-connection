@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-mongodb-connection",
+  "version": "1.0.0",
+  "description": "Nodejs and mongodb connect  using middleware express connecting mongodb with mongoose  App running on port 3000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavithacf/Nodejs-mongodb-connection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavithacf/Nodejs-mongodb-connection/issues"
+  },
+  "homepage": "https://github.com/kavithacf/Nodejs-mongodb-connection#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.11"
+  }
+}
